@@ -51,7 +51,7 @@ Here are a few notable projects I’ve worked on:
 - **Project 2: AI Chatbot**
 - **Project 3: Machine Learning Models**
 
-![Portfolio Image]([https://via.placeholder.com/150](https://iiot-world-com.b-cdn.net/wp-content/uploads/2021/02/future-artificial-intelligence-robot-cyborg.jpg))
+![Portfolio Image](https://iiot-world-com.b-cdn.net/wp-content/uploads/2021/02/future-artificial-intelligence-robot-cyborg.jpg)
 
 ---
 
