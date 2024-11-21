@@ -10,7 +10,7 @@ I am a student at **MNIT Jaipur**, pursuing a degree in **Computer Science**. I 
 
 | Degree          | Institution          | Year of Graduation |
 |-----------------|----------------------|--------------------|
-| B.Tech (CS)     | MNIT Jaipur          | 2025               |
+| B.Tech (CSE)    | MNIT Jaipur          | 2025               |
 | Senior Secondary| LBS School           | 2021               |
 | High School     | ARP High School      | 2019               |
 
