@@ -8,11 +8,11 @@ I am a student at **MNIT Jaipur**, pursuing a degree in **Computer Science**. I 
 
 📚 ## Education
 
-| Degree          | Institution          | Year of Graduation |
-|-----------------|----------------------|--------------------|
-| B.Tech (CSE)    | MNIT Jaipur          | 2027               |
-| Senior Secondary| LBS School           | 2023               |
-| High School     | ARP High School      | 2021               |
+| Degree          | Institution          | Year of Graduation | CGPA |
+|-----------------|----------------------|--------------------|------|
+| B.Tech (CSE)    | MNIT Jaipur          | 2027               | 8.6  |
+| Senior Secondary| LBS School           | 2023               | 9.2  |
+| High School     | ARP High School      | 2021               | 9.6  |
 
 🏆 ## Projects 🏆
 
@@ -28,7 +28,7 @@ I am a student at **MNIT Jaipur**, pursuing a degree in **Computer Science**. I 
 - **Technologies Used:** Python, TensorFlow, NLP
 - **GitHub Repository:** [github.com/vedant6877/chatbot](https://github.com/vedant6877/chatbot)
 
-## Interests
+💻 ## Interests 💻
 
 - Web Development
 - Artificial Intelligence
